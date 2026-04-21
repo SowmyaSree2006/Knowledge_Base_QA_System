@@ -1,0 +1,12 @@
+Natural Language Processing (NLP) is a field of Artificial Intelligence that enables computers to understand and process human language.
+It involves tasks such as tokenization, part-of-speech tagging, named entity recognition, and parsing.
+
+spaCy is an open-source Python library used for advanced NLP tasks. It provides efficient tools for text processing and linguistic analysis.
+
+Transformers are deep learning models that use attention mechanisms to understand context in text. They are widely used in applications such as question answering, translation, and text generation.
+
+Machine Learning is a subset of Artificial Intelligence that allows systems to learn from data and improve performance without explicit programming.
+
+Deep Learning is a specialized branch of Machine Learning that uses neural networks with multiple layers.
+
+Question Answering systems are designed to automatically respond to user queries by extracting relevant information from a knowledge base.

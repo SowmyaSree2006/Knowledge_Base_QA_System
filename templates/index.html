@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Knowledge Base QA System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Knowledge Base QA System</h1>
+
+        <form method="POST">
+            <input type="text" name="question" placeholder="Ask your question" required>
+            <button type="submit">Ask</button>
+        </form>
+
+        <div class="result">
+            <p><span class="label">Answer:</span> {{ answer }}</p>
+            <p><span class="label">Context:</span> {{ context }}</p>
+        </div>
+    </div>
+
+</body>
+</html>
