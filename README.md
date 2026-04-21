@@ -31,7 +31,8 @@ This project is a web-based Knowledge Base Question Answering System that allows
 8. Display result  
 
 ##  Project Structure
-``` QA_Project/
+```
+QA_Project/
 │
 ├── app.py
 ├── kb.txt
