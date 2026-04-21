@@ -32,13 +32,13 @@ This project is a web-based Knowledge Base Question Answering System that allows
 
 ##  Project Structure
 ```
-QA_Project/
+QA_Project
 │
 ├── app.py
 ├── kb.txt
-├── templates/
+├── templates
 │ └── index.html
-└── static/
+└── static
 └── style.css
 ```
 
